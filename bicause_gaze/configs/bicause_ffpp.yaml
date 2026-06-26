@@ -1,0 +1,15 @@
+seed: 42
+num_classes: 2
+clip_len: 16
+image_size: 112
+batch_size: 8
+epochs: 2
+lr: 1.0e-4
+num_workers: 0
+synthetic_if_missing: true
+train_root: ""
+val_root: ""
+w_cls: 1.0
+w_phy: 0.6
+w_causal: 0.4
+w_micro: 0.2

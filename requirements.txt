@@ -1,0 +1,7 @@
+torch==2.12.1
+torchvision==0.27.1
+numpy==2.4.6
+PyYAML==6.0.3
+pillow==12.2.0
+opencv-python==4.13.0.92
+mediapipe==0.10.35
